@@ -1,7 +1,7 @@
 # Module-1-Challenge
 ## Overview and Origin
 
-* Name of company
+* Name of company  
 OpenAI
 
 * When was the company incorporated?  
