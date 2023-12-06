@@ -51,7 +51,7 @@ One major core metric is ethical and moral standards. On this metric OpenAI scor
 
 * *How is your company performing relative to competitors in the same field?*  
 The company is performing very well in comparison to its competitors. OpenAI boasts a net worth of over $29 billion.
-> Semafor ... would value OpenAI at $29 billion.
+> Semafor ... would value OpenAI at $29 billion.  
 OpenAI major competitors include Google, Amazon, Intel, all of which are highly established organizations which have much greater net worths than OpenAI. SInce OpenAI is relatively new, its performance appears lower than that of these other companies if based on net worth alone.
 
 ## Recommendations
