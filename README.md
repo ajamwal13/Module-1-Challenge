@@ -66,3 +66,12 @@ This technology would use text generative technology such as chat gpt to transla
 
 * *Why are these technologies appropriate for your solution?*  
 THese technologies are all appropriate for my solution because they all cater towards disabled peoples.For example, the textgenerative technology can be used for those who cannot read and need translation. THe image detection technology can be used for those who cannot see and need assistance visualizing the environment. THe audio translation AI technology can be used for those who cannot hear and need interpretation of what is being said in the environment.
+
+## References
+
+* [Source for OpenAI website](https://openai.com/about)
+* [Source for Microsoft investment into OpenAI](https://www.cnbc.com/2023/01/10/microsoft-to-invest-10-billion-in-chatgpt-creator-openai-report-says.html)
+* [Source for founding members](https://www.vanityfair.com/news/2015/12/sam-altman-elon-musk-openai)
+* [Source for OpenAI Five](https://www.theverge.com/2017/8/14/16141938/dota-2-openai-bots-elon-musk-artificial-intelligence)
+* [Source for ChatGPT](https://chat.openai.com/)
+* [Source for net worth of OpenAI](https://markets.businessinsider.com/news/stocks/chatgpt-openai-valuation-bot-microsoft-language-google-tech-stock-funding-2023-1?ref=hackernoon.com#:~:text=OpenAI%2C%20the%20parent%20company%20of%20popular%20language%20bot,agreed%20to%20a%20%2410%20billion%20investment%20in%20OpenAI.)
