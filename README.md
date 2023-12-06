@@ -4,7 +4,7 @@
 * Name of company
 OpenAI
 
-* When was the company incorporated?
+* When was the company incorporated?  
 The company was incorporated in December 2015
 
 * Who are the founders of the company?
